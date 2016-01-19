@@ -1,0 +1,1 @@
+werl -pa ./ -pa ./ebin -eval "application:start(server)"
